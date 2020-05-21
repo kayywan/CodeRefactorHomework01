@@ -1,0 +1,3 @@
+Cleaning, Organizing, And Editing Code That Isn't Yours
+
+In my opinion, one of the things separating good web developers from great ones is the ability to keep the code clean, organized, and easy to read. This is especially important when it comes to styling in the CSS stylesheets, as well as debugging and indentifying problematic codes. Moreover, this assignment reminded me of the importance of making sub-branches when adjusting code from the main branch—you definitely do not want to commit changes that haven't been approved yet. Moreover, clean and organized code allows for easier collaboration, giving others who are working off your efforts the ability to easily identify and improve your code, as well as helping you locate areas of improvement in your own work. 
